@@ -1,7 +1,7 @@
 # Power-Bi-dasboard-
 The Power Bi projects give a thorough examination of HR analytics, including insightful information on gender ratios, pay distribution, and performance across age groups. The dashboard is an effective tool for strategic decision making since it shows important metrics, trends, and comparisons. 
 
-Key Insights and features    
+# Key Insights and features    
 •	Total count of employee by different categories: An over view of count of male and female employee. The male employee exceeds 50% more than female employee. The maximum employee work as a sales executive in a company and the minimum employee work as a HR Executives. Between the age group of 26 to 35 maximum employe fall under this category. Majority of the employee have a life science education background. Majority of the employee work in a Research and Development department. 
 
 •	Performance by education field: Visualizations showing performance trend over education field and age groups. 
